@@ -1,0 +1,2 @@
+class NailPolish < ApplicationRecord
+end
