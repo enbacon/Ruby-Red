@@ -1,4 +1,4 @@
-<% project_name = 'ruby-red-server' %>
+<% project_name = 'ruby-red' %>
 
 default: &default
   adapter: postgresql
